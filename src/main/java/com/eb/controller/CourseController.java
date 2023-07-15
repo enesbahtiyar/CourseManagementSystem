@@ -1,4 +1,4 @@
-package com.tpe.controller;
+package com.eb.controller;
 
 public class CourseController {
 

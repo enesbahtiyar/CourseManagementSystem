@@ -1,4 +1,4 @@
-package com.tpe.exception;
+package com.eb.exception;
 
 public class ResourceNotFoundException  {
 }

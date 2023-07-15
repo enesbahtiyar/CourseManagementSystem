@@ -1,4 +1,4 @@
-package com.tpe.service;
+package com.eb.service;
 
 
 public interface CourseService {
